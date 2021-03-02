@@ -12,4 +12,3 @@ Na faculdade já vi HTML, CSS, Bootstrap, Jquery, Java, banco de dados e tenho e
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lissadias/)](https://www.linkedin.com/in/lissadias/)
 
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
