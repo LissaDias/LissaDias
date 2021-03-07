@@ -12,7 +12,7 @@ Na faculdade já vi *HTML, CSS, Bootstrap, Jquery, Java, banco de dados* e tenho
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lissadias/)](https://www.linkedin.com/in/lissadias/)
 
-# English Version
+### English Version
 
 My name is **Lissa Dias**, I'm brazilian, I'm a student 📚 of Systems Analysis and Development 💻 at Senac Rio 
 and I have been looking for internship opportunities in the area of **frontEnd, UX, UI and related areas**.
