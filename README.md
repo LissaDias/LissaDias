@@ -1,6 +1,6 @@
 # Hey 👋
 
-Meu nome é ##**Lissa Dias**, brasileira, sou estudante 📚 de Análise e Desenvolvimento de Sistemas 💻 no Senac Rio 
+Meu nome é ## **Lissa Dias**, brasileira, sou estudante 📚 de Análise e Desenvolvimento de Sistemas 💻 no Senac Rio 
 e tenho buscado oportunidades de estágio na área de **frontEnd, UX, UI e afins**.
 
 Tenho experiência com design gráfico, já trabalhei em algumas gráficas e por conta própria. 
